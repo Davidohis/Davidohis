@@ -1,6 +1,6 @@
 
 # Hello there, I'm David :hand: :computer:
-<img src="https://i.ibb.co/R0yppr1/code.png" alt="code" border="0">
+<img src="https://i.ibb.co/R0yppr1/code.png" width="1200" alt="code" border="0">
 
 My name is David Igheose, a design-minded Front-end Engineer focused on building interfaces & experiences and also an advocate for building real world projects.
 
