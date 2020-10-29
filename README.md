@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Davidohis/Davidohis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there, I'm David Igheose :hand: :computer:
+<img src="https://github.com/Davidohis/Davidohis/master/code.png">
 
-Here are some ideas to get you started:
+My name is David Igheose , a design-minded Front-end Engineer focused on building interfaces & experiences and also an advocate for building real world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me on the internet :earth_africa:
+- 📫 How to reach me: DM [@DavidIgheose](https://twitter.com/DavidIgheose)
+- 😄 Pronouns: He/him
+- ⚡  Fun fact: I'm in a blissful relationship [with Jesus Christ](https://www.bible.com/bible/111/jhn.3.16).
+- 🌱 Learning to make professional connections on <a href="https://www.linkedin.com/in/davidigheose">Linkedin</a>
+- 🔭 Creating repositories and reading the code of others here at <a href="https://github.com/Davidohis">Github</a>
+- 📫 Send me a mail :mailbox: at : davidi.ohis25@gmail.com
