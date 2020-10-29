@@ -1,6 +1,7 @@
 
-# Hello there, I'm David :hand: :love: :computer:
-<img src="https://github.com/Davidohis/Davidohis/blob/master/code.png">
+# Hello there, I'm David :hand: :computer:
+<img src=“/code.png” raw=true alt=“Subject Pronouns” style=“margin-right: 10px;”/>
+
 
 My name is David Igheose, a design-minded Front-end Engineer focused on building interfaces & experiences and also an advocate for building real world projects.
 
