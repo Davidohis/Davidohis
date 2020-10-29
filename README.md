@@ -1,8 +1,8 @@
 
-# Hello there, I'm David Igheose :hand: :computer:
-<img src="https://github.com/Davidohis/Davidohis/master/code.png">
+# Hello there, I'm David :hand: :love: :computer:
+<img src="https://github.com/Davidohis/Davidohis/blob/master/code.png">
 
-My name is David Igheose , a design-minded Front-end Engineer focused on building interfaces & experiences and also an advocate for building real world projects.
+My name is David Igheose, a design-minded Front-end Engineer focused on building interfaces & experiences and also an advocate for building real world projects.
 
 ## Find me on the internet :earth_africa:
 - 📫 How to reach me: DM [@DavidIgheose](https://twitter.com/DavidIgheose)
