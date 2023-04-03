@@ -1,10 +1,8 @@
-# Hi there 👋🏾 , I'm a David Igheose
+# Hi there 👋🏾 , I'm a David 
 
-
-A Senior Frontend Engineer and Content Creator who currently works at [Enyata](https://enyata.com/). I'm passionate about web engineering, learning, sharing knowledge, teaching, and the [gospel of Jesus Christ](https://www.kingjamesbibleonline.org/John-3-16/). 
+A Senior Frontend Engineer and Content Creator. I'm passionate about web engineering, learning, sharing knowledge, teaching, and the [gospel of Jesus Christ](https://www.kingjamesbibleonline.org/John-3-16/). 
 
 - 😊 Pronouns: He/him
-- 📫 How to reach me: DM [@Davidigheose](https://twitter.com/davidigheose).
 - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://www.kingjamesbibleonline.org/John-3-16/).
 
 ---
