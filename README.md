@@ -1,4 +1,4 @@
-# Hi there 👋🏾 , I'm a David Igheose
+# Hi there 👋🏾 , I'm a David
 
 A Senior Frontend Engineer and Content Creator. I'm passionate about web engineering, learning, sharing knowledge, teaching, and the [gospel of Jesus Christ](https://www.kingjamesbibleonline.org/John-3-16/). 
 
